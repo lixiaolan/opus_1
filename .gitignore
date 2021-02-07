@@ -1,0 +1,17 @@
+# Ignore all except specific projects
+
+/*
+
+!/.gitignore
+!/rooster/
+# !/something_in_the_wind/
+# !/naked_and_rued_v1/
+# !/the_blues/
+
+# Ignore all local state caching and backup files.
+
+*/instant.xml
+*/*.history
+*/*.history.bak
+*/peaks/**
+*/export/**
